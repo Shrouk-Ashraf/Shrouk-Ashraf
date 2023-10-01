@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)]
+![MasterHead](https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png)
 <h1 align="center">Hi 👋, I'm Shrouk Ashraf</h1>
 <h3 align="center">A Mobile Application Developer</h3>
 
