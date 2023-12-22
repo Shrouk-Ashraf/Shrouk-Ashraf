@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shrouk Ashraf</h1>
 <h3 align="center">A Mobile Application Developer</h3>
 
-- 🌱 I’m currently learning **Flutter, Android Development**
+- 🌱 I’m currently learning **Flutter Development**
 
 - 📫 How to reach me **shrouk.a.elsaeid31@gmail.com**
 
